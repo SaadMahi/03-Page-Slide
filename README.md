@@ -1,4 +1,5 @@
 # Webpage Showcase: Video Games
+![Capture](https://github.com/SaadMahi/03-Page-Slide/assets/117567622/3616797c-bb74-4002-8433-587fdf754fe1)
 
 This webpage is a visually captivating showcase of video games, presented through an engaging slider design. The slider incorporates five slides, each dedicated to a specific game: "Death Stranding," "Last of Us 2," "Until Dawn," "Outlast 2," and "Resident Evil 8." Each slide features a stunning background image relevant to the showcased game.
 
